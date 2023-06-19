@@ -1,2 +1,3 @@
 # dashboards
-powerbi dashboards
+powerbi dashboard samples
+
